@@ -4,8 +4,8 @@ title: "INF0.2 - Serwer WWW (Apache2)"
 # INF0.2 - Serwer WWW (Apache2)
 
 > **Powiązane notatki:**
-> - [DNS (BIND9)](./INF0.2%20-%20DNS%20-%20nie%20dzia%C5%82a.md) — rozwiązywanie nazw wirtualnych hostów
-> - [SSH](./INF0.2%20-%20SSH%20%28openssh-server%3B%20sshd%29.md) — zdalna administracja serwerem
+> - [DNS (BIND9)](./dns.md) — rozwiązywanie nazw wirtualnych hostów
+> - [SSH](./ssh.md) — zdalna administracja serwerem
 
 ### 1. Instalacja
 ```bash

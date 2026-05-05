@@ -4,8 +4,8 @@ title: "Foldery i pliki - Linux"
 # Foldery i pliki - Linux
 
 > **Powiązane notatki:**
-> - [Uprawnienia](./INF0.2%20-%20Uprawnienia%20do%20plik%C3%B3w%20i%20katalog%C3%B3w.%20Zmiana%20w%C5%82a%C5%9Bciciela%20i%20grupy.md) — uprawnienia do katalogów
-> - [Diagnostyka podzespołów](./INF0.2%20-%20Diagnostyka%20podzespo%C5%82%C3%B3w%20%28Linux%29.md) — informacje o systemie
+> - [Uprawnienia](./uprawnienia.md) — uprawnienia do katalogów
+> - [Diagnostyka podzespołów](./diagnostyka.md) — informacje o systemie
 
 ### 1. Wstęp
 Hierarchia folderów w Linux opiera się na FHS (Filesystem Hierarchy Standard). Ten standard mówi o tym jaki foldery mają być posegregowane i jakie pliki mają do nich należeć.

@@ -4,9 +4,9 @@ title: "INF0.2 - Promowanie serwera do roli kontrolera domeny"
 # INF0.2 - Promowanie serwera do roli kontrolera domeny
 
 > **Powiązane notatki:**
-> - [Instalowanie Active Directory](./INF0.2%20-%20Instalowanie%20Active%20Directory%20%28Windows%20Serwer%29.md) — instalacja roli AD DS
-> - [Zarządzanie użytkownikami domenowymi](./INF0.2%20-%20Zarz%C4%85dzanie%20u%C5%BCytkownikami%20domenowymi%3B%20jednostki%20organizacyjne,%20grupy%20zabezpiecze%C5%84%20%28Windows%20Serwer%29.md) — zarządzanie po utworzeniu domeny
-> - [NIC Teaming](./INF0.2%20-%20NIC%20Teaming%20%28Windows%20Serwer%29.md) — łączenie kart sieciowych na serwerze
+> - [Instalowanie Active Directory](./active-directory.md) — instalacja roli AD DS
+> - [Zarządzanie użytkownikami domenowymi](./uzytkownicy-domenowi.md) — zarządzanie po utworzeniu domeny
+> - [NIC Teaming](./nic-teaming.md) — łączenie kart sieciowych na serwerze
 
 ### 1. Co to domena?
 Domena to usługa pozwalająca na korzystanie z komputerów i innych urządzeń w ramach jednego środowiska

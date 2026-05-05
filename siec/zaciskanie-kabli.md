@@ -4,8 +4,8 @@ title: "INF0.2 - Zaciskanie kabli sieciowych"
 # INF0.2 - Zaciskanie kabli sieciowych
 
 > **Powiązane notatki:**
-> - [Mikrotik - podstawowa konfiguracja](./INF0.2%20-%20Mikrotik%20-%20podstawowa%20konfiguracja%20%28IP%20dla%20LAN,%20WAN,%20serwer%20DHCP%29.md) — router i konfiguracja sieci
-> - [Switch (TP LINK SG 2008)](./INF0.2%20-%20Switch%20%28TP%20LINK%20SG%202008%29.md) — przełącznik w sieci
+> - [Mikrotik - podstawowa konfiguracja](./mikrotik-podstawy.md) — router i konfiguracja sieci
+> - [Switch TP-Link](./switch-tp-link.md) — przełącznik w sieci
 
 ### 1. Standardy okablowania
 Kabel U/UTP (skrętka) składa się z 4 par przewodów (8 żył). Na egzaminie stosujemy standard **T568B** (rzadziej T568A).

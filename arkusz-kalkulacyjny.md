@@ -4,8 +4,8 @@ title: "INF0.2 - Arkusz kalkulacyjny (Excel / LibreOffice Calc)"
 # INF0.2 - Arkusz kalkulacyjny (Excel / LibreOffice Calc)
 
 > **Powiązane notatki:**
-> - [Diagnostyka podzespołów (Linux)](../Linux/INF0.2%20-%20Diagnostyka%20podzespo%C5%82%C3%B3w%20%28Linux%29.md) — dane do harmonogramu
-> - [Zarządzanie użytkownikami (Windows 10)](../Windows_WindowsServer/INF0.2%20-%20Zarz%C4%85dzanie%20u%C5%BCytkownikami%20%28Windows%2010%29.md) — dane do kosztorysu
+> - [Diagnostyka podzespołów (Linux)](./linux/diagnostyka.md) — dane do harmonogramu
+> - [Zarządzanie użytkownikami (Windows 10)](./windows/uzytkownicy.md) — dane do kosztorysu
 
 ### 1. Podstawowe formuły
 | Zadanie | Formuła | Opis |

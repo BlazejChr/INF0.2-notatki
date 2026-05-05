@@ -4,8 +4,8 @@ title: "INF0.2 - Zarządzanie użytkownikami"
 # INF0.2 - Zarządzanie użytkownikami
 
 > **Powiązane notatki:**
-> - [Korzystanie z CMD](./INF0.2%20-%20Korzystanie%20z%20CMD%20%28Windows%2010%29.md) — zarządzanie użytkownikami z linii poleceń
-> - [MMC i przystawki](./INF0.2%20-%20MMC%20%28Microsoft%20Management%20Console%29%20i%20przystawki%20%28Windows%2010%29.md) — lusrmgr.msc jako przystawka
+> - [Korzystanie z CMD](./cmd.md) — zarządzanie użytkownikami z linii poleceń
+> - [MMC i przystawki](./mmc.md) — lusrmgr.msc jako przystawka
 
 ### 1. Dostępne narzędzia
 Zarządzanie użytkownikami w Windows jest proste. Pierwsze co przychodzi nam do głowy gdy mamy polecenie "Dodać użytkownika" to ustawienia i zakładka "Użytkownicy", niestety gdy wybierzemy tą opcję będziemy zmuszeni odpowiadać na pytania zabezpieczające Microsoftu i będziemy musieli spełniać wymogi dotyczące haseł itd.

@@ -4,8 +4,8 @@ title: "INF0.2 - WWW (IIS)"
 # INF0.2 - WWW (IIS)
 
 > **Powiązane notatki:**
-> - [FTP (IIS)](./INF0.2%20-%20FTP%20%28IIS%29%20%28Windows%20Serwer%29.md) — instalacja FTP jako usługa roli WWW
-> - [DNS (Windows Server)](./INF0.2%20-%20DNS%20%28Windows%20Server%29.md) — rozwiązywanie nazw witryn
+> - [FTP (IIS)](./ftp-iis.md) — instalacja FTP jako usługa roli WWW
+> - [DNS (Windows Server)](./dns-windows.md) — rozwiązywanie nazw witryn
 
 Dzięki IIS jesteśmy w stanie stworzyć stronę internetową i wyświetlić ją w przeglądarce na stacji roboczej.
 

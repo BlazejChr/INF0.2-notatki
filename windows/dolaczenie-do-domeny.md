@@ -4,8 +4,8 @@ title: "INF0.2 - Przyłączanie stacji roboczej do domeny"
 # INF0.2 - Przyłączanie stacji roboczej do domeny
 
 > **Powiązane notatki:**
-> - [Promowanie serwera do roli kontrolera domeny](./INF0.2%20-%20Promowanie%20serwera%20do%20roli%20kontrolera%20domeny%20%28Windows%20Serwer%29.md) — utworzenie domeny
-> - [Domenowe zasady grupy (GPO)](./INF0.2%20-%20Domenowe%20zasady%20grupy%20%28GPO%29%20%28Windows%20Serwer%29.md) — zarządzanie stacjami w domenie
+> - [Promowanie serwera do roli kontrolera domeny](./promowanie-domeny.md) — utworzenie domeny
+> - [Domenowe zasady grupy (GPO)](./gpo-domenowe.md) — zarządzanie stacjami w domenie
 
 ### 1. Dodanie nowej stacji roboczej do domeny
 **Narzędzia > Użytkownicy i komputery usługi AD > PPM > Nowy > Komputer**

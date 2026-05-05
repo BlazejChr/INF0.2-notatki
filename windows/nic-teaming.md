@@ -4,8 +4,8 @@ title: "INF0.2 - NIC Teaming (Windows Server)"
 # INF0.2 - NIC Teaming (Windows Server)
 
 > **Powiązane notatki:**
-> - [Konfiguracja interfejsów sieciowych (Windows 10)](./INF0.2%20-%20Konfiguracja%20interfejs%C3%B3w%20sieciowych%20%28Windows%2010%29.md) — konfiguracja pojedynczych interfejsów
-> - [Promowanie serwera do roli kontrolera domeny](./INF0.2%20-%20Promowanie%20serwera%20do%20roli%20kontrolera%20domeny%20%28Windows%20Serwer%29.md) — konfiguracja serwera przed AD
+> - [Konfiguracja interfejsów sieciowych (Windows 10)](./konfiguracja-sieci.md) — konfiguracja pojedynczych interfejsów
+> - [Promowanie serwera do roli kontrolera domeny](./promowanie-domeny.md) — konfiguracja serwera przed AD
 
 ### 1. Co to NIC Teaming?
 NIC Teaming (zwany też LBFO — Load Balancing and Failover) pozwala połączyć wiele kart sieciowych w jeden logiczny interfejs. Zapewnia to:

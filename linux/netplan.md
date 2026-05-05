@@ -4,8 +4,8 @@ title: "INF0.2 - Netplan"
 # INF0.2 - Netplan
 
 > **Powiązane notatki:**
-> - [DHCP (Linux)](./INF0.2%20-%20DHCP%20%28Linux%29.md) — serwer DHCP wymaga statycznego IP
-> - [DNS (BIND9)](./INF0.2%20-%20DNS%20-%20nie%20dzia%C5%82a.md) — serwer DNS wymaga statycznego IP
+> - [DHCP (Linux)](./dhcp.md) — serwer DHCP wymaga statycznego IP
+> - [DNS (BIND9)](./dns.md) — serwer DNS wymaga statycznego IP
 
 ### 1. Kopiowanie szablonu pliku
 ```bash

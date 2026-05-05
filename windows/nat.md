@@ -4,8 +4,8 @@ title: "INF0.2 - Routing i dostęp zdalny (NAT)"
 # INF0.2 - Routing i dostęp zdalny (NAT)
 
 > **Powiązane notatki:**
-> - [DHCP (Windows Server)](./INF0.2%20-%20DHCP%20%28Windows%20Server%29.md) — przydzielanie adresów w sieci za NAT
-> - [DNS (Windows Server)](./INF0.2%20-%20DNS%20%28Windows%20Server%29.md) — rozwiązywanie nazw
+> - [DHCP (Windows Server)](./dhcp-windows.md) — przydzielanie adresów w sieci za NAT
+> - [DNS (Windows Server)](./dns-windows.md) — rozwiązywanie nazw
 
 ### 1. Instalacja
 Włączamy na serwerze naszą kartę NAT

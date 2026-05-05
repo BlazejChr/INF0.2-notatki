@@ -4,8 +4,8 @@ title: "INF0.2 - DHCP (Windows Server)"
 # INF0.2 - DHCP (Windows Server)
 
 > **Powiązane notatki:**
-> - [DNS (Windows Server)](./INF0.2%20-%20DNS%20%28Windows%20Server%29.md) — serwery DNS przydzielane klientom
-> - [Routing i dostęp zdalny (NAT)](./INF0.2%20-%20Routing%20i%20dost%C4%99p%20zdalny%20%28NAT%29%20%28Windows%20Serwer%29.md) — współdzielenie internetu
+> - [DNS (Windows Server)](./dns-windows.md) — serwery DNS przydzielane klientom
+> - [Routing i dostęp zdalny (NAT)](./nat.md) — współdzielenie internetu
 
 Serwer DHCP odpowiada za przydzielanie IP hostom z danej podsieci, które są do niego podłączone.
 

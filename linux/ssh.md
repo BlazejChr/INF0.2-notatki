@@ -4,8 +4,8 @@ title: "INF0.2 - SSH (openssh-server; sshd)"
 # INF0.2 - SSH (openssh-server; sshd)
 
 > **Powiązane notatki:**
-> - [Użytkownicy i grupy](./INF0.2%20-%20Zarz%C4%85dzanie%20u%C5%BCytkownikami%20i%20grupami.md) — zarządzanie kontami użytkowników
-> - [Uprawnienia](./INF0.2%20-%20Uprawnienia%20do%20plik%C3%B3w%20i%20katalog%C3%B3w.%20Zmiana%20w%C5%82a%C5%9Bciciela%20i%20grupy.md) — uprawnienia plików na serwerze
+> - [Użytkownicy i grupy](./uzytkownicy.md) — zarządzanie kontami użytkowników
+> - [Uprawnienia](./uprawnienia.md) — uprawnienia plików na serwerze
 
 ### 1. Instalacja
 ```bash

@@ -4,8 +4,8 @@ title: "INF0.2 - Zarządzanie użytkownikami domenowymi; jednostki organizacyjne
 # INF0.2 - Zarządzanie użytkownikami domenowymi; jednostki organizacyjne, grupy zabezpieczeń
 
 > **Powiązane notatki:**
-> - [Instalowanie Active Directory](./INF0.2%20-%20Instalowanie%20Active%20Directory%20%28Windows%20Serwer%29.md) — instalacja AD
-> - [Domenowe zasady grupy (GPO)](./INF0.2%20-%20Domenowe%20zasady%20grupy%20%28GPO%29%20%28Windows%20Serwer%29.md) — GPO dla OU
+> - [Instalowanie Active Directory](./active-directory.md) — instalacja AD
+> - [Domenowe zasady grupy (GPO)](./gpo-domenowe.md) — GPO dla OU
 
 ### 1. Czym różni się użytkownik lokalny od domenowego?
 **Użytkownik lokalny jest przypisany wyłącznie do jednego komputera, użytkownik domenowy jest za to przypisany do domeny**, dlatego może logować się z każdego urządzenia przypisanego do domeny (poza kontrolerem)

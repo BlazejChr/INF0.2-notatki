@@ -4,8 +4,8 @@ title: "INF0.2 - Diagnostyka podzespołów (Linux)"
 # INF0.2 - Diagnostyka podzespołów (Linux)
 
 > **Powiązane notatki:**
-> - [Foldery (Linux)](./Foldery%20%28Linux%29.md) — struktura katalogów
-> - [Zarządzanie użytkownikami i grupami](./INF0.2%20-%20Zarz%C4%85dzanie%20u%C5%BCytkownikami%20i%20grupami.md) — informacje o użytkownikach
+> - [Foldery (Linux)](./foldery.md) — struktura katalogów
+> - [Zarządzanie użytkownikami i grupami](./uzytkownicy.md) — informacje o użytkownikach
 
 Komendy pozwalające na diagnostykę można podzielić na dwie grupy
 

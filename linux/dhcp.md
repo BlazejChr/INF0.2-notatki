@@ -4,8 +4,8 @@ title: "INF0.2 - DHCP (Linux)"
 # INF0.2 - DHCP (Linux)
 
 > **Powiązane notatki:**
-> - [Netplan](./INF0.2%20-%20Netplan.md) — konfiguracja statycznego IP interfejsu
-> - [DNS (BIND9)](./INF0.2%20-%20DNS%20-%20nie%20dzia%C5%82a.md) — konfiguracja serwera DNS
+> - [Netplan](./netplan.md) — konfiguracja statycznego IP interfejsu
+> - [DNS (BIND9)](./dns.md) — konfiguracja serwera DNS
 
 ### 1. Instalacja
 ```bash

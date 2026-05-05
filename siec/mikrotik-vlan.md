@@ -4,8 +4,8 @@ title: "INF0.2 - Mikrotik - konfiguracja VLANów"
 # INF0.2 - Mikrotik - konfiguracja VLANów
 
 > **Powiązane notatki:**
-> - [Podstawowa konfiguracja Mikrotik](./INF0.2%20-%20Mikrotik%20-%20podstawowa%20konfiguracja%20%28IP%20dla%20LAN,%20WAN,%20serwer%20DHCP%29.md) — DHCP, IP, trasa domyślna
-> - [Switch TP-Link](./INF0.2%20-%20Switch%20%28TP%20LINK%20SG%202008%29.md) — VLANy na switchu
+> - [Podstawowa konfiguracja Mikrotik](./mikrotik-podstawy.md) — DHCP, IP, trasa domyślna
+> - [Switch TP-Link](./switch-tp-link.md) — VLANy na switchu
 
 Konfiguracja VLAN'ów na urządzeniach Łotewskiej firmy MikroTik bardzo różni się od konfiguracji na zwykłych routerach
 

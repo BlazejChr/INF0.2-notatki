@@ -4,8 +4,8 @@ title: "INF0.2 - Zarządzanie dyskami i partycjonowanie (Windows 10)"
 # INF0.2 - Zarządzanie dyskami i partycjonowanie (Windows 10)
 
 > **Powiązane notatki:**
-> - [Diagnostyka (Windows 10)](./INF0.2%20-%20Diagnostyka%20%28Windows%2010%29.md) — informacje o dyskach
-> - [Zarządzanie użytkownikami (Windows 10)](./INF0.2%20-%20Zarz%C4%85dzanie%20u%C5%BCytkownikami%20%28Windows%2010%29.md) — przydziały dyskowe
+> - [Diagnostyka (Windows 10)](./diagnostyka.md) — informacje o dyskach
+> - [Zarządzanie użytkownikami (Windows 10)](./uzytkownicy.md) — przydziały dyskowe
 
 ### 1. Konfiguracja
 Aby otworzyć zarządzanie dyskami w Windows należy:

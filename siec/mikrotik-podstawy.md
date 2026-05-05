@@ -4,8 +4,8 @@ title: "INF0.2 - Mikrotik - podstawowa konfiguracja (IP dla LAN, WAN, serwer DHC
 # INF0.2 - Mikrotik - podstawowa konfiguracja (IP dla LAN, WAN, serwer DHCP)
 
 > **Powiązane notatki:**
-> - [Konfiguracja VLANów na Mikrotik](./INF0.2%20-%20Mikrotik%20-%20konfiguracja%20VLAN%C3%B3w.md) — segmentacja sieci
-> - [Switch TP-Link](./INF0.2%20-%20Switch%20%28TP%20LINK%20SG%202008%29.md) — VLANy na switchu
+> - [Konfiguracja VLANów na Mikrotik](./mikrotik-vlan.md) — segmentacja sieci
+> - [Switch TP-Link](./switch-tp-link.md) — VLANy na switchu
 
 Konfiguracja urządzenia Mikrotik pokazana w tym dokumencie będzie robiona w programie WinBox.
 

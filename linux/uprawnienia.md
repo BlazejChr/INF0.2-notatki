@@ -4,9 +4,9 @@ title: "INF0.2 - Uprawnienia do plików i katalogów. Zmiana właściciela i gru
 # INF0.2 - Uprawnienia do plików i katalogów. Zmiana właściciela i grupy
 
 > **Powiązane notatki:**
-> - [Zarządzanie użytkownikami i grupami](./INF0.2%20-%20Zarz%C4%85dzanie%20u%C5%BCytkownikami%20i%20grupami.md) — tworzenie użytkowników i grup
-> - [Samba](./INF0.2%20-%20Samba.md) — uprawnienia do udziałów sieciowych
-> - [Foldery (Linux)](./Foldery%20%28Linux%29.md) — struktura katalogów
+> - [Zarządzanie użytkownikami i grupami](./uzytkownicy.md) — tworzenie użytkowników i grup
+> - [Samba](./samba.md) — uprawnienia do udziałów sieciowych
+> - [Foldery (Linux)](./foldery.md) — struktura katalogów
 
 ### 1. Wyjaśnienie teoretyczne
 Każdy plik i katalog w Linux pozwala edytować uprawnienia dla 3 grup:

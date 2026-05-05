@@ -4,8 +4,8 @@ title: "INF0.2 - Lokalne zasady grupy"
 # INF0.2 - Lokalne zasady grupy
 
 > **Powiązane notatki:**
-> - [Domenowe zasady grupy (GPO)](./INF0.2%20-%20Domenowe%20zasady%20grupy%20%28GPO%29%20%28Windows%20Serwer%29.md) — GPO dla całej domeny
-> - [MMC i przystawki](./INF0.2%20-%20MMC%20%28Microsoft%20Management%20Console%29%20i%20przystawki%20%28Windows%2010%29.md) — tworzenie własnych konsoli
+> - [Domenowe zasady grupy (GPO)](./gpo-domenowe.md) — GPO dla całej domeny
+> - [MMC i przystawki](./mmc.md) — tworzenie własnych konsoli
 
 ### 1. Czym są zasady grupy
 Zasady grupy to reguły określane przez system według których musi poruszać się użytkownik. Innymi słowy, są to pewne przepisy, których musi przestrzegać user lokalnie lub w domenie.

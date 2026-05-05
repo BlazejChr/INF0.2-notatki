@@ -4,8 +4,8 @@ title: "INF0.2 - Diagnostyka (Windows 10)"
 # INF0.2 - Diagnostyka (Windows 10)
 
 > **Powiązane notatki:**
-> - [Korzystanie z CMD](./INF0.2%20-%20Korzystanie%20z%20CMD%20%28Windows%2010%29.md) — narzędzia wiersza poleceń
-> - [Zenmap i NMap](./INF0.2%20-%20Zenmap%20i%20NMap%20%28Windows%2010%29.md) — skanowanie sieci
+> - [Korzystanie z CMD](./cmd.md) — narzędzia wiersza poleceń
+> - [Zenmap i NMap](./zenmap.md) — skanowanie sieci
 
 Wypisane programy oraz krótki opis do wyszukania jakiej informacji służą.
 

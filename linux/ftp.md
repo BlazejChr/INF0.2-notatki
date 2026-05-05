@@ -4,8 +4,8 @@ title: "INF0.2 - FTP (vsftpd)"
 # INF0.2 - FTP (vsftpd)
 
 > **Powiązane notatki:**
-> - [Użytkownicy i grupy](./INF0.2%20-%20Zarz%C4%85dzanie%20u%C5%BCytkownikami%20i%20grupami.md) — tworzenie użytkowników systemowych
-> - [Uprawnienia](./INF0.2%20-%20Uprawnienia%20do%20plik%C3%B3w%20i%20katalog%C3%B3w.%20Zmiana%20w%C5%82a%C5%9Bciciela%20i%20grupy.md) — ustawianie uprawnień do katalogów
+> - [Użytkownicy i grupy](./uzytkownicy.md) — tworzenie użytkowników systemowych
+> - [Uprawnienia](./uprawnienia.md) — ustawianie uprawnień do katalogów
 
 ### 1. Instalacja
 ```bash

@@ -4,8 +4,8 @@ title: "INF0.2 - DNS (Windows Server)"
 # INF0.2 - DNS (Windows Server)
 
 > **Powiązane notatki:**
-> - [Promowanie serwera do roli kontrolera domeny](./INF0.2%20-%20Promowanie%20serwera%20do%20roli%20kontrolera%20domeny%20%28Windows%20Serwer%29.md) — DNS instaluje się razem z AD DS
-> - [DHCP](./INF0.2%20-%20DHCP%20%28Windows%20Server%29.md) — przydzielanie adresów IP
+> - [Promowanie serwera do roli kontrolera domeny](./promowanie-domeny.md) — DNS instaluje się razem z AD DS
+> - [DHCP](./dhcp-windows.md) — przydzielanie adresów IP
 
 Serwer DNS instaluje się w chwili promowania serwera do kontrolera domeny.
 

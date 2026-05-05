@@ -4,8 +4,8 @@ title: "INF0.2 - FTP (IIS)"
 # INF0.2 - FTP (IIS)
 
 > **Powiązane notatki:**
-> - [WWW (IIS)](./INF0.2%20-%20WWW%20%28IIS%29%20%28Windows%20Serwer%29.md) — instalacja FTP jako usługa roli WWW
-> - [Zarządzanie użytkownikami (Windows 10)](./INF0.2%20-%20Zarz%C4%85dzanie%20u%C5%BCytkownikami%20%28Windows%2010%29.md) — tworzenie kont użytkowników
+> - [WWW (IIS)](./iis.md) — instalacja FTP jako usługa roli WWW
+> - [Zarządzanie użytkownikami (Windows 10)](./uzytkownicy.md) — tworzenie kont użytkowników
 
 ### 1. Instalacja
 FTP instalujemy wraz z serwerem **WWW** w opcjach **„Usługi ról” wybieramy FTP**

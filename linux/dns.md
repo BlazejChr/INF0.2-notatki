@@ -4,8 +4,8 @@ title: "INF0.2 - DNS (BIND9)"
 # INF0.2 - DNS (BIND9)
 
 > **Powiązane notatki:**
-> - [DHCP (Linux)](./INF0.2%20-%20DHCP%20%28Linux%29.md) — przydzielanie adresów i serwera DNS klientom
-> - [Netplan](./INF0.2%20-%20Netplan.md) — konfiguracja statycznego IP serwera
+> - [DHCP (Linux)](./dhcp.md) — przydzielanie adresów i serwera DNS klientom
+> - [Netplan](./netplan.md) — konfiguracja statycznego IP serwera
 
 ### 1. Instalacja
 ```bash

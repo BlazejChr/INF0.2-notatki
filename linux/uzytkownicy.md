@@ -4,8 +4,8 @@ title: "INF0.2 - Zarządzanie użytkownikami i grupami"
 # INF0.2 - Zarządzanie użytkownikami i grupami
 
 > **Powiązane notatki:**
-> - [Uprawnienia](./INF0.2%20-%20Uprawnienia%20do%20plik%C3%B3w%20i%20katalog%C3%B3w.%20Zmiana%20w%C5%82a%C5%9Bciciela%20i%20grupy.md) — ustawianie uprawnień plików
-> - [Samba](./INF0.2%20-%20Samba.md) — konta Samba bazują na użytkownikach systemowych
+> - [Uprawnienia](./uprawnienia.md) — ustawianie uprawnień plików
+> - [Samba](./samba.md) — konta Samba bazują na użytkownikach systemowych
 
 ### 1. Zarządzanie użytkownikiem
 - `sudo adduser nazwa_uzytkownika` — dodanie nowego użytkownika (interaktywnie, z pytaniem o hasło i dane)

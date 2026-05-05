@@ -4,9 +4,9 @@ title: "INF0.2 - Switch"
 # INF0.2 - Switch
 
 > **Powiązane notatki:**
-> - [Mikrotik - konfiguracja VLANów](./INF0.2%20-%20Mikrotik%20-%20konfiguracja%20VLAN%C3%B3w.md) — VLANy na routerze
-> - [Mikrotik - podstawowa konfiguracja](./INF0.2%20-%20Mikrotik%20-%20podstawowa%20konfiguracja%20%28IP%20dla%20LAN,%20WAN,%20serwer%20DHCP%29.md) — DHCP, IP, trasa domyślna
-> - [Zaciskanie kabli sieciowych](./INF0.2%20-%20Zaciskanie%20kabli%20sieciowych.md) — fizyczne połączenia kablowe
+> - [Mikrotik - konfiguracja VLANów](./mikrotik-vlan.md) — VLANy na routerze
+> - [Mikrotik - podstawowa konfiguracja](./mikrotik-podstawy.md) — DHCP, IP, trasa domyślna
+> - [Zaciskanie kabli sieciowych](./zaciskanie-kabli.md) — fizyczne połączenia kablowe
 
 Konfiguracja w tym dokumencie będzie dla urządzenia TP-LINK SG-2008, inne switche będą miały inne interfejsy, pomimo tego że dane ustawienia da się znaleźć w podobnych zakładkach
 
