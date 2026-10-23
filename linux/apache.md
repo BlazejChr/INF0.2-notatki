@@ -116,12 +116,12 @@ Na stacji roboczej dodajemy te same wpisy:
 sudo nano /etc/hosts
 ```
 
-W ostatniej linii:
+W ostatniej linii (ten sam adres IP co serwer Apache — tu przykładowo `192.168.19.1`):
 ```text
-192.168.1.100 informatyk.local
-192.168.1.100 www.informatyk.local
-192.168.1.100 elektryk.local
-192.168.1.100 www.elektryk.local
+192.168.19.1 informatyk.local
+192.168.19.1 www.informatyk.local
+192.168.19.1 elektryk.local
+192.168.19.1 www.elektryk.local
 ```
 
 Następnie:

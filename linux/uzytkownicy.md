@@ -13,7 +13,7 @@ title: "INF0.2 - Zarządzanie użytkownikami i grupami"
 - `sudo deluser --remove-home nazwa_uzytkownika` — usunięcie użytkownika wraz z katalogiem domowym
 - `sudo adduser --home /sciezka nazwa_uzytkownika` — ustawienie niestandardowego katalogu domowego
 - `sudo adduser --uid numer nazwa_uzytkownika` — ustawienie identyfikatora użytkownika (UID)
-- `sudo adduser --disabled-login nazwa_uzytkownika` — utworzenie konta bez możliwości logowania hasłem (tylko np. klucz SSH, konto usługowe)
+- `sudo adduser --disabled-login nazwa_uzytkownika` — utworzenie konta bez logowania interaktywnego (shell typu nologin; typowe konto usługowe, nie „konto tylko na SSH”)
 - `sudo adduser --shell /sciezka_do_powloki nazwa_uzytkownika` — ustawienie innej powłoki (domyślnie `/bin/bash`)
 - `sudo usermod -e RRRR-MM-DD nazwa_uzytkownika` — ustawienie daty wygaśnięcia konta
 - `sudo passwd nazwa_uzytkownika` — zmiana hasła użytkownika

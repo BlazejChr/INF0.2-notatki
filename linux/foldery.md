@@ -34,7 +34,7 @@ Te foldery pomagają w funkcjonowaniu głównych procesów systemu, dostępnośc
 - /`media` - automatyczne punkty montowania dla nośników wymiennych (pendrive, płyty CD/DVD)
 - /`mnt` - ręczne punkty montowania dla tymczasowego montowania systemów plików
 - /`proc` - wirtualny system plików (procfs) z informacjami o procesach (`/proc/PID`) i parametrach kernela (`/proc/sys`)
-- /`run` - pliki runtime (dane procesów uruchomionych od ostatniego startu): PID, sockety; czyszczony przy restarcie (w przeciwieństwie do `/tmp` — tylko dla procesów systemowych)
+- /`run` - pliki runtime (dane procesów uruchomionych od ostatniego startu): PID, sockety; trzymany zwykle na tmpfs i czyszczony przy restarcie. `/tmp` też bywa czyszczony przy restarcie — różnica jest raczej w przeznaczeniu (`/run` pod system, `/tmp` pod pliki tymczasowe użytkowników i aplikacji)
 - /`sbin` - binarne, wykonywalne programy dla administratora (system administration)
 - /`srv` - dane serwerów udostępniane przez system (np. strony www, pliki FTP)
 - /`sys` - wirtualny system plików (sysfs) — interfejs do urządzeń podłączonych do systemu i parametrów kernela

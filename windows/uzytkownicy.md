@@ -12,8 +12,8 @@ Zarządzanie użytkownikami w Windows jest proste. Pierwsze co przychodzi nam do
 
 Dlatego mamy inne opcje:
 
-**Zarządzanie komputerem > Użytkownicy i grupy lokalne (nie działa na win11)**
-**Win + R > lusrmgr.msc > Użytkownicy (nie działa na win11)**
+**Zarządzanie komputerem > Użytkownicy i grupy lokalne** (niedostępne na Windows 11 Home)
+**Win + R > lusrmgr.msc > Użytkownicy** (to samo — Home go nie ma, Pro/Enterprise tak)
 
 Aby dodać nowego użytkownika wystarczy
 **PPM (folder użytkownicy) > Nowy użytkownik**

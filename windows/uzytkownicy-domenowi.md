@@ -26,9 +26,9 @@ Grupy zabezpieczeń służą do zarządzania bezpieczeństwem i dostępem do zas
 Grupy dystrybucyjne służą do prostego wysyłania emaili do konkretnych grup użytkowników
 
 Grupy zabezpieczeń mają również możliwość określenia zakresu. Wyróżniamy 3 rodzaje zakresu w grupie zabezpieczeń:
-1. **Lokalna w domenie** — dostęp do zasobów lokalnych
-2. **Globalne** — użytkownicy z dowolnej domeny w zakresie tego samego lasu
-3. **Uniwersalne** — dostęp do dowolnego zasobu w całym lesie
+1. **Lokalna w domenie** — uprawnienia do zasobów w tej samej domenie; członkami mogą być konta i grupy z zaufanych domen
+2. **Globalne** — członkami mogą być tylko konta i grupy globalne z **tej samej** domeny; uprawnienia można nadawać w całym lesie
+3. **Uniwersalne** — członkami mogą być konta i grupy z dowolnej domeny w lesie; uprawnienia w całym lesie
 
 ### 4. Tworzenie grup lokalnych w domenie
 Aby utworzyć grupę w domenie należy:
@@ -36,7 +36,7 @@ Aby utworzyć grupę w domenie należy:
 
 ### 5. Dodanie użytkownika do grupy
 Aby dodać użytkownika do grupy należy:
-**PPM (na użytkownika w folderze Users) > Właściwości > Członkowie > Dodaj**
+**PPM (na użytkownika w folderze Users) > Właściwości > Członek grupy > Dodaj**
 
 ### 6. Jednostki organizacyjne
 Aby uporządkować wszystkich użytkowników, grupy i tak dalej na pomoc przychodzą nam jednostki organizacyjne (OU).

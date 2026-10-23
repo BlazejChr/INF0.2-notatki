@@ -29,4 +29,4 @@ GPO przetwarzane są w kolejności LSDOU:
 3. **D**omain (zasady domeny)
 4. **O**U (zasady jednostki organizacyjnej)
 
-Każda kolejna zasada nadpisuje poprzednie (chyba że ustawiono "Wymuś" / Enforced).
+Domyślnie każda kolejna zasada nadpisuje poprzednie. Jeśli ustawisz **"Wymuś" / Enforced**, ta zasada wygrywa nawet wtedy, gdy późniejsza (np. z OU) próbuje ją zmienić.

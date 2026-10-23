@@ -18,8 +18,8 @@ Mamy tutaj możliwość stworzenia strefy wyszukiwania w przód, która odpowiad
 Strefa wyszukiwania w tył robi to samo ale na odwrót, zamienia adres IP na nazwę słowną
 
 #### Wyszukiwanie w przód
-Aby stworzyć nową stronę wyszukiwania w przód należy:
-**PPM (Strefy wyszukiwania do przodu) > Nowa strefa > Podajemy adres po którym mamy wyszukiwać**
+Aby stworzyć nową strefę wyszukiwania w przód należy:
+**PPM (Strefy wyszukiwania do przodu) > Nowa strefa > Podajemy nazwę domeny (np. zszz.local)**
 
 Po utworzeniu nowej strefy musimy stworzyć nowego wirtualnego hosta aby móc pingować serwer za pomocą nazwy a nie IP
 

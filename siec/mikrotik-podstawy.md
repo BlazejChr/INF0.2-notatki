@@ -29,3 +29,10 @@ W taki sam sposób konfigurujemy WAN, zmieniając tylko Interface na WAN
 **IP > Routes > +**
 
 Destination address zostawiamy na 0.0.0.0/0 a w polu „Gateway” wpisujemy podany adres bramy domyślnej, nie wybieramy interfejsu ponieważ doda się on domyślnie
+
+### 4. NAT (żeby LAN miał Internet przez WAN)
+Jeśli klienci z LAN mają wychodzić w Internet przez Mikrotika:
+**IP > Firewall > NAT > +**
+- Chain: `srcnat`
+- Out. Interface: `WAN` (albo ether1 — karta na zewnątrz)
+- Action: `masquerade`

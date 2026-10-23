@@ -29,11 +29,11 @@ Typowe zadanie: tabela z usługami, stawką VAT, ceną netto i brutto:
 
 | Usługa | Ilość | Cena netto | VAT | Brutto |
 |--------|-------|------------|-----|--------|
-| Montaż | 2 | 100 | 23% | `=C2*(1+D2)` |
-| Konfiguracja | 1 | 150 | 23% | `=C3*(1+D3)` |
+| Montaż | 2 | 100 | 23% | `=B2*C2*(1+D2)` |
+| Konfiguracja | 1 | 150 | 23% | `=B3*C3*(1+D3)` |
 | **SUMA** | | | | `=SUMA(E2:E3)` |
 
-**VAT jako ułamek:** jeśli VAT jest wpisany jako `23%`, arkusz traktuje go jako `0,23`. Formuła: `cena_netto * (1 + VAT)`.
+**VAT jako ułamek:** jeśli VAT jest wpisany jako `23%`, arkusz traktuje go jako `0,23`. Formuła: `ilość * cena_netto * (1 + VAT)`.
 
 ### 4. Formatowanie warunkowe
 Formatowanie warunkowe zmienia kolor/tło komórki w zależności od jej wartości:

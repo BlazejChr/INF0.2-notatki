@@ -22,9 +22,9 @@ Najważniejsze opcje:
 ListenAddress 192.168.19.1
 ```
 
-Restart usługi:
+Restart usługi (na Ubuntu nazwa usługi to zwykle `ssh`, nie `sshd`):
 ```bash
-sudo systemctl restart sshd
+sudo systemctl restart ssh
 ```
 
 ### 3. Połączenie z poziomu stacji roboczej
@@ -67,5 +67,5 @@ PasswordAuthentication no
 
 Restart usługi po każdej zmianie konfiguracji:
 ```bash
-sudo systemctl restart sshd
+sudo systemctl restart ssh
 ```

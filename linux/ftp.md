@@ -21,8 +21,10 @@ sudo cp /etc/vsftpd.conf /etc/vsftpd.conf.old
 Tworzymy katalog i ustawiamy uprawnienia:
 ```bash
 sudo mkdir -p /srv/ftp/pliki
-sudo chmod 755 /srv/ftp/pliki
+sudo chmod 777 /srv/ftp/pliki
 ```
+
+> Katalog główny anonimowego FTP (`/srv/ftp`) może zostać z `755`, ale katalog na upload (`pliki`) musi być zapisywalny dla użytkownika FTP — inaczej anonimowy zapis nie zadziała.
 
 Edycja konfiguracji:
 ```bash
@@ -81,7 +83,7 @@ ftp 192.168.19.1
 - Hasło: hasło użytkownika systemowego
 
 ### 7. Firewall — otwarcie portów FTP
-FTP używa portów 20 (dane) i 21 (sterowanie). Otwórz je w zaporze:
+FTP używa portu **21** (sterowanie). Port **20** to dane w trybie active. W trybie passive klient łączy się na dodatkowe, wysokie porty — na egzaminie często wystarczy otworzyć 21 (i ewentualnie 20):
 ```bash
 sudo ufw allow 20/tcp
 sudo ufw allow 21/tcp

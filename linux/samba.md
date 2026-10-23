@@ -18,7 +18,7 @@ sudo mkdir /srv/zasoby
 sudo chmod 775 /srv/zasoby
 ```
 
-> `chmod 775` jest bezpieczniejszy niż `777` — pozwala na zapis tylko właścicielowi i grupie, a innym tylko na odczyt i wykonanie.
+> `chmod 775` jest OK dla udziału z zalogowanymi użytkownikami (zapis dla właściciela i grupy). Przy dostępie gościa patrz uwaga w sekcji poniżej.
 
 ### 3. Konfiguracja dla użytkowników anonimowych
 ```bash
@@ -34,6 +34,8 @@ Na końcu pliku dodajemy sekcję:
     browseable = yes
     writeable = yes
 ```
+
+> Gość Samba zwykle mapuje się na użytkownika `nobody`. Przy `chmod 775` „others” mają tylko odczyt — zapis dla anonimowych nie zadziała. Jeśli na egzaminie trzeba pozwolić gościom pisać, ustaw `chmod 777 /srv/zasoby` albo dodaj w udziale `force user = nazwa_wlasciciela`.
 
 > W pliku `smb.conf` nazwa udziału w nawiasach kwadratowych `[zasoby]` zaczyna się od początku linii, a opcje konfiguracyjne powinny mieć wcięcie (dowolne spacje lub tabulatory — plik nie wymaga konkretnego odstępu).
 

@@ -6,7 +6,7 @@ title: "INF0.2 - Zabezpieczenia do folderów (dziedziczne) (ACL) (Windows 10)"
 ### 1. Konfiguracja (podstawowa)
 **PPM (na folder) > Właściwości > Zabezpieczenia > Edytuj**
 Możemy teraz wybierać konkretne uprawnienia dla konkretnych grup i użytkowników, takie jak odczyt, zapis czy wyświetlanie zawartości folderu.
-Aby nadać użytkownikowi uprawnienia tylko do odczytu musimy mu najpierw wszystko zablokować, a następnie pozwolić na odczyt. Tylko wtedy to zadziała ze względu na dziedziczenie
+Aby nadać użytkownikowi uprawnienia tylko do odczytu: odznacz zbędne zezwolenia (zapis itd.) albo w ustawieniach zaawansowanych wyłącz dziedziczenie i zostaw sam odczyt. Nie „blokuj wszystkiego Deny”, bo **Odmów zawsze wygrywa z Zezwól** — Deny All + Allow Read i tak nic nie da.
 
 ### 2. Konfiguracja (zaawansowana)
 **PPM (na folder) > Właściwości > Zabezpieczenia > Zaawansowane**

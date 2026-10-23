@@ -17,7 +17,8 @@ Gdy nasze komputery się pingują należy:
 **PPM (na logo windows) > System > Zaawansowane ustawienia systemu > Nazwa komputera > Zmień > Domena (w polu członek) > Wpisujemy nazwę domeny (nazwa.local).**
 
 Gdy pojawi się nam okienko o wpisanie nazwy użytkownika i hasło to wpisujemy według schematu:
-**NAZWA(Domeny)/nazwa_uzytkownika**
+**NAZWA_DOMENY\nazwa_uzytkownika** (backslash, nie slash)
+albo w formacie UPN: **nazwa_uzytkownika@domena.local**
 **haslo_uzytkownika**
 
 Aby zmiany zostały uwzględnione musimy zrestartować komputer

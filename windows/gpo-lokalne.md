@@ -12,8 +12,8 @@ Zasady grupy to reguły określane przez system według których musi poruszać 
 
 ### 2. Podział zasad grupy
 Istnieją dwa rodzaje zasad grupy:
-1. Lokalne — dotyczą wyłącznie komputera i użytkowników lokalnych
-2. Domenowe — dotyczą wszystkich komputerów w domenie i użytkowników domenowych
+1. Lokalne — dotyczą wyłącznie tego komputera (i jego użytkowników)
+2. Domenowe — dotyczą obiektów w domenie według tego, gdzie je podlinkujesz (domena, OU, witryna) — nie zawsze „wszystkich” komputerów
 
 ### 3. Konfiguracja
 Aby wejść w edytor zasad grupy należy:

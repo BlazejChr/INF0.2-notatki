@@ -9,12 +9,12 @@ title: "INF0.2 - Uprawnienia do plików i katalogów. Zmiana właściciela i gru
 > - [Foldery (Linux)](./foldery.md) — struktura katalogów
 
 ### 1. Wyjaśnienie teoretyczne
-Każdy plik i katalog w Linux pozwala edytować uprawnienia dla 3 grup:
+Każdy plik i katalog w Linux pozwala edytować uprawnienia dla 3 klas:
 1. Właściciel
 2. Grupa
 3. Pozostali
 
-Każdej z tych 3 grup można przypisać po 3 uprawnienia
+Każdej z tych 3 klas można przypisać po 3 uprawnienia
 1. r - read
 2. w - write
 3. x - execute
@@ -25,8 +25,7 @@ Aby sprawdzić uprawnienia do pliku lub katalogu stosujemy komendę:
 ls -al
 ```
 
-
-Ciąg znaków dzielimy na 3 równe części, każda odpowiadająca wymienionym wcześniej (w tej właśnie kolejności) grupom.
+Pierwszy znak to typ (`-` plik, `d` katalog, `l` link). Potem idzie 9 znaków uprawnień — dzielimy je na 3 równe części (po 3), każda odpowiadająca wymienionym wcześniej klasom (w tej kolejności).
 
 ### 3. Edycja uprawnień do plików
 Uprawnienia edytujemy za pomocą komendy "chmod".
